@@ -13,3 +13,5 @@ API: http://www.omdbapi.com/
 - Glide
 - Dagger Hilt
 
+## Debug APK:
+[app-debug.zip](https://github.com/ManuchekhrT/OmdbApi-task/files/11438508/app-debug.zip)
